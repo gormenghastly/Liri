@@ -15,7 +15,7 @@ var value = process.argv[3];
 
 //function to log data to text file
 function logText(data) {
-  fs.appendFile('log.txt', JSON.stringify(data) + '\n', function(err) {
+  fs.appendFile('./log.txt', JSON.stringify(data) + '\n', function(err) {
     if (err) {
       return console.log(err);
     }
@@ -39,7 +39,7 @@ function spotifySong() {
       for (var i = 0; i < singles.length; i++) {
         data.push({
           song: singles[i].name,
-          artist: singles[i].artists.name,
+          artist: singles[i].artists[0].name,
           album: singles[i].album.name,
           preview_link: singles[i].preview_url
         });
