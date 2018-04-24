@@ -23,25 +23,25 @@ Displays my last 20 tweets and when they were created in terminal/bash window.
 
 Shows the following information about the song in terminal/bash window.
 
-*Artist(s)
-*The song's name
-*A preview link of the song from Spotify
-*The album that the song is from
-*Or if no song is passed through, it will default to "The Sign" by Ace of Base
+  *Artist(s)
+  *The song's name
+  *A preview link of the song from Spotify
+  *The album that the song is from
+  *Or if no song is passed through, it will default to "The Sign" by Ace of Base
 
 #### 3.node liri.js movie-this ''<movie name>'
 
 
 Shows the following information in terminal/bash.
 
-*Title of the movie.
-*Year the movie came out.
-*IMDB Rating of the movie.
-*Rotten Tomatoes Rating.
-*Country where the movie was produced.
-*Language of the movie.
-*Plot of the movie.
-*Actors in the movie.
+  *Title of the movie.
+  *Year the movie came out.
+  *IMDB Rating of the movie.
+  *Rotten Tomatoes Rating.
+  *Country where the movie was produced.
+  *Language of the movie.
+  *Plot of the movie.
+  *Actors in the movie.
 
 Or if no movie is passed through, it will default to "Mr. Nobody"
 
@@ -51,19 +51,19 @@ Takes the text from random.txt and runs the song through spotify-this-song comma
 
 ## Technologies Utilized
 
-*Node.js
-*Twitter npm
-*Node-Spotify-API npm
-*Request npm
-*FS npm
-*OMDB API
+  *Node.js
+  *Twitter npm
+  *Node-Spotify-API npm
+  *Request npm
+  *FS npm
+  *OMDB API
 
 ## Screenshots
 
-![alt text](images/Liri-1.png)
+![alt text](https://github.com/gormenghastly/Liri/images/Liri-1.png)
 
-![alt text](images/Liri-2.png)
+![alt text](https://github.com/gormenghastly/Liri/images/Liri-2.png)
 
-![alt text](images/Liri-3.png)
+![alt text](https://github.com/gormenghastly/Liri/images/Liri-3.png)
 
-![alt text](images/Liri-4.png)
+![alt text](https://github.com/gormenghastly/Liri/images/Liri-4.png)
