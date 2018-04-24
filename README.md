@@ -78,8 +78,8 @@ Takes the text from random.txt and runs the song through spotify-this-song comma
 
 ![alt text](Liri/images/Liri-1.PNG)
 
-![alt text](https://github.com/gormenghastly/Liri/raw/master/images/Liri-2.png)
+![alt text](https://github.com/gormenghastly/Liri/images/Liri-2.png)
 
-![alt text](https://github.com/gormenghastly/Liri/raw/master/images/Liri-3.png)
+![alt text](https://github.com/gormenghastly/Liri/images/Liri-3.png)
 
-![alt text](https://github.com/gormenghastly/Liri/raw/master/images/Liri-4.png)
+![alt text](https://github.com/gormenghastly/Liri/images/Liri-4.png)
