@@ -20,6 +20,7 @@ Displays my last 20 tweets and when they were created in terminal/bash window.
 
 #### 2.node liri.js spotify-this-song '<song name>'
 
+
 Shows the following information about the song in terminal/bash window.
 
 \*Artist(s)
@@ -29,6 +30,7 @@ Shows the following information about the song in terminal/bash window.
 \*Or if no song is passed through, it will default to "The Sign" by Ace of Base
 
 #### 3.node liri.js movie-this ''<movie name>'
+
 
 Shows the following information in terminal/bash.
 
