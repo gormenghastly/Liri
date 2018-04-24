@@ -80,6 +80,6 @@ Takes the text from random.txt and runs the song through spotify-this-song comma
 
 ![alt text](images/Liri-2.PNG "screenshot")
 
-![alt text](images/Liri-3.png "screenshot")
+![alt text](images/Liri-3.PNG "screenshot")
 
-![alt text](images/Liri-4.png "screenshot")
+![alt text](images/Liri-4.PNG "screenshot")
