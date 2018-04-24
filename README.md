@@ -76,10 +76,14 @@ Takes the text from random.txt and runs the song through spotify-this-song comma
 
 ## Screenshots
 
+ my-tweets & do-what-it-says
 ![alt text](images/Liri-1.PNG "screenshot")
 
+ movie-this with & without title
 ![alt text](images/Liri-2.PNG "screenshot")
 
+ spotify-this-song without title
 ![alt text](images/Liri-3.PNG "screenshot")
 
+ spotify-this-song with title
 ![alt text](images/Liri-4.PNG "screenshot")
